@@ -12,7 +12,7 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo16-novo%2Fmaster%2FInsomnia.json)
 
-Descrição.
+Segurança no Node.js usando express-brute, express-brute-redis, Helmet, Node Redis, Rate Limit Redis.
 
 *Obs: Este repositório é uma cópia do [Node - Módulo 16 (Novo)](https://github.com/osvaldokalvaitir/node-modulo16-novo) para a realização de métodos de segurança no Node.js.*
 
@@ -88,6 +88,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Express Handlebars plugin for Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer-express-handlebars.md)
 
+- [Express Rate Limit](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-rate-limit.md)
+
 - [express-brute](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-brute.md)
 
 - [express-brute-redis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-brute-redis.md)
@@ -104,6 +106,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Multer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/multer.md)
 
+- [Node Redis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redis.md)
+
 - [Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer.md)
 
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
@@ -113,6 +117,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [pg-hstore](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pg-hstore.md)
 
 - [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
+
+- [Rate Limit Redis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/rate-limit-redis.md)
 
 - [Sequelize](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sequelize.md)
 
