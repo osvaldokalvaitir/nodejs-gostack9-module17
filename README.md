@@ -94,6 +94,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [ExpressJS Async Errors](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-async-errors.md)
 
+- [Helmet](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/helmet.md)
+
 - [ioredis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/ioredis.md)
 
 - [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)
