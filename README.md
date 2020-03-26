@@ -12,7 +12,7 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo16-novo%2Fmaster%2FInsomnia.json)
 
-Segurança no Node.js usando express-brute, express-brute-redis, Helmet, Node Redis, Rate Limit Redis.
+Segurança no Node.js usando express-brute, express-brute-redis, Helmet, Node Redis, Rate Limit Redis e CORS.
 
 *Obs: Este repositório é uma cópia do [Node - Módulo 16 (Novo)](https://github.com/osvaldokalvaitir/node-modulo16-novo) para a realização de métodos de segurança no Node.js.*
 

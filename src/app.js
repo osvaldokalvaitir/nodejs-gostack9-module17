@@ -30,7 +30,11 @@ class App {
   middlewares() {
     this.server.use(Sentry.Handlers.requestHandler());
     this.server.use(helmet());
-    this.server.use(cors());
+    this.server.use(
+      cors({
+        origin: process.env.FRONT_URL,
+      })
+    );
     this.server.use(express.json());
     this.server.use(
       '/files',
