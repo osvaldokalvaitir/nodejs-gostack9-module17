@@ -10,9 +10,9 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo16-novo%2Fmaster%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo17-novo%2Fmaster%2FInsomnia.json)
 
-Segurança no Node.js usando express-brute, express-brute-redis, Helmet, Node Redis, Rate Limit Redis e CORS.
+Segurança no Node.js usando express-brute, express-brute-redis, Helmet, Node Redis, Rate Limit Redis, CORS, GitHub e Greenkeeper.
 
 *Obs: Este repositório é uma cópia do [Node - Módulo 16 (Novo)](https://github.com/osvaldokalvaitir/node-modulo16-novo) para a realização de métodos de segurança no Node.js.*
 
@@ -181,6 +181,10 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
   - Imagem do PostgreSQL: [postgres](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/postgres.md)
 
   - Imagem do Redis: [redis:alpine](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/redis-alpine.md)
+
+- [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
+
+- [Greenkeeper](https://github.com/osvaldokalvaitir/projects-settings/blob/master/dependency-manager/greenkeeper.md)
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
