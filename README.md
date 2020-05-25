@@ -1,20 +1,20 @@
-# Node - Módulo 17 (Novo)
+# Node.js - Módulo 17 (Novo)
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo17-novo/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo17-novo.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-modulo17-novo.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-modulo17-novo.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-modulo17-novo.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-modulo17-novo.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-modulo17-novo.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo17-novo/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo17-novo.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo17-novo.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo17-novo.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo17-novo.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo17-novo.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo17-novo.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-modulo17-novo%2Fmaster%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-modulo17-novo%2Fmaster%2FInsomnia.json)
 
 Segurança no Node.js usando express-brute, express-brute-redis, Helmet, Node Redis, Rate Limit Redis, CORS, GitHub e Greenkeeper.
 
-*Obs: Este repositório é uma cópia do [Node - Módulo 16 (Novo)](https://github.com/osvaldokalvaitir/node-modulo16-novo) para a realização de métodos de segurança no Node.js.*
+*Obs: Este repositório é uma cópia do [Node.js - Módulo 16 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo16-novo) para a realização de métodos de segurança no Node.js.*
 
 ## Índice
 
