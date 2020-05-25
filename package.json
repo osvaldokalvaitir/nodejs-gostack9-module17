@@ -1,8 +1,8 @@
 {
-  "name": "node-modulo17-novo",
+  "name": "nodejs-modulo17-novo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-modulo17-novo",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-modulo17-novo",
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
