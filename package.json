@@ -34,7 +34,7 @@
     "pg-hstore": "^2.3.3",
     "rate-limit-redis": "^1.7.0",
     "redis": "^3.1.1",
-    "sequelize": "^6.28.2",
+    "sequelize": "^6.29.0",
     "youch": "^2.0.10",
     "yup": "^0.27.0"
   },
